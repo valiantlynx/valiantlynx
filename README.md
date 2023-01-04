@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 # 👋HI I AM valiantlynx 👋
 I am Developer, - 👀 I’m interested in general development. Be it product, system, game or web
 - 🌱 I’m currently learning mechanical engineering - product development
-- 💞️ I’m looking to collaborate on any development work
+- 💞️ I’m open to collaborate on any development work
 - 📫 How to reach me valiantlynxz@gmail.com
 # Heres my stats - <br >
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valiantlynx)
