@@ -27,7 +27,7 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
  <a href="https://www.typescriptlang.org/" width="40" height="40"/> 
  
 # Stats of my Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altlokalt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edatutorials@gmail.com&layout=compact)
 
 # My Streaks and contributions
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valiantlynx&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
