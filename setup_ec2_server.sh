@@ -47,7 +47,7 @@ sleep 3
 sudo snap install core 
 echo "Initialize refresh core "
 sleep 3
-sudo snap refresh core -y
+sudo snap refresh core 
 echo "Initialize install certbot "
 sleep 3
 sudo snap install --classic certbot
