@@ -44,7 +44,7 @@ sleep 3
 sudo apt install snapd -y
 echo "Initialize install core "
 sleep 3
-sudo snap install core -y
+sudo snap install core 
 echo "Initialize refresh core "
 sleep 3
 sudo snap refresh core -y
