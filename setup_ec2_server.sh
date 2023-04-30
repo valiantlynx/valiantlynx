@@ -38,16 +38,16 @@ echo "starting nginx setup"
 echo "Initialize install nginx "
 sleep 3
 
-sudo apt install nginx
+sudo apt install nginx -y
 echo "Initialize install snapd "
 sleep 3
-sudo apt install snapd
+sudo apt install snapd -y
 echo "Initialize install core "
 sleep 3
-sudo snap install core
+sudo snap install core -y
 echo "Initialize refresh core "
 sleep 3
-sudo snap refresh core
+sudo snap refresh core -y
 echo "Initialize install certbot "
 sleep 3
 sudo snap install --classic certbot
