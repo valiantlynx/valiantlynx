@@ -1,14 +1,5 @@
 version: '3'
 services:
-  anime-site:
-    build:
-      context: ./anime-site
-    ports:
-      - '3100:3000'
-    restart: always
-    networks:
-      - published
-      
   animevariant_com_api:
     build:
       context: ./animevariant_com_api
@@ -17,22 +8,26 @@ services:
     restart: always
     networks:
       - published
-
-  blog-nextjs-sanity:
+      
+  anime-site:
     build:
-      context: ./blog-nextjs-sanity
+      context: ./anime-site
+    depends_on:
+      - animevariant_com_api
     ports:
-      - '3300:3000'
+      - '3100:3000'
     restart: always
     networks:
       - published
 
-  manga-site:
+  pocketbase-docker:
     build:
-      context: ./manga-site
+      context: ./pocketbase-docker/pocketbase
     ports:
-      - '3400:3000'
+      - '8990:8080'
     restart: always
+    volumes:
+      - ./pocketbase-docker/pocketbase/pb_data:/pb_data
     networks:
       - published
 
@@ -41,24 +36,6 @@ services:
       context: ./minfuel-web
     ports:
       - '3500:3000'
-    restart: always
-    networks:
-      - published
-
-  next-blog:
-    build:
-      context: ./next-blog
-    ports:
-      - '3600:3000'
-    restart: always
-    networks:
-      - published
-
-  altlokalt-nextjs:
-    build:
-      context: ./altlokalt-nextjs
-    ports:
-      - '3700:3000'
     restart: always
     networks:
       - published
@@ -77,6 +54,44 @@ services:
       context: ./simple-service-worker
     ports:
       - '3900:3000'
+    restart: always
+    networks:
+      - published
+
+  blog-nextjs-sanity:
+    build:
+      context: ./blog-nextjs-sanity
+    ports:
+      - '3300:3000'
+    restart: always
+    networks:
+      - published
+
+  manga-site:
+    build:
+      context: ./manga-site
+    depends_on:
+      - pocketbase-upload-maga
+    ports:
+      - '3400:3000'
+    restart: always
+    networks:
+      - published
+
+  next-blog:
+    build:
+      context: ./next-blog
+    ports:
+      - '3600:3000'
+    restart: always
+    networks:
+      - published
+
+  altlokalt-nextjs:
+    build:
+      context: ./altlokalt-nextjs
+    ports:
+      - '3700:3000'
     restart: always
     networks:
       - published
