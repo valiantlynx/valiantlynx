@@ -1,23 +1,23 @@
-token=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
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/altlokalt-nextjs.git
+
+git clone git@github.com:valiantlynx/altlokalt-nextjs.git
 echo "Cloned altlokalt-nextjs"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/anime-site.git
+git clone git@github.com:valiantlynx/anime-site.git
 echo "Cloned anime-site"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/pocketbase-upload-maga.git
+git clone git@github.com:valiantlynx/pocketbase-upload-maga.git
 echo "Cloned pocketbase-upload-maga"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/manga-site.git
+git clone git@github.com:valiantlynx/manga-site.git
 echo "Cloned manga-site"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/simple-service-worker.git
+git clone git@github.com:valiantlynx/simple-service-worker.git
 echo "Cloned simple-service-worker"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/blog-nextjs-sanity.git
+git clone git@github.com:valiantlynx/blog-nextjs-sanity.git
 echo "Cloned blog-nextjs-sanity"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/minfuel-web.git
+git clone git@github.com:valiantlynx/minfuel-web.git
 echo "Cloned minfuel-web"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/animevariant_com_api.git
+git clone git@github.com:valiantlynx/animevariant_com_api.git
 echo "Cloned animevariant_com_api"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/next-blog.git
+git clone git@github.com:valiantlynx/next-blog.git
 echo "Cloned next-blog"
-git clone https://${token}:x-oauth-basic@github.com/valiantlynx/pocketbase-docker.git
+git clone git@github.com:valiantlynx/pocketbase-docker.git
 echo "Cloned altlokalt-nextjs"
 
 # compose
