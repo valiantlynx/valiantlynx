@@ -16,10 +16,23 @@ git clone https://github.com/valiantlynx/animevariant_com_api.git
 echo "Cloned animevariant_com_api"
 git clone https://github.com/valiantlynx/next-blog.git
 echo "Cloned next-blog"
+git clone https://github.com/valiantlynx/pocketbase-docker.git
+echo "Cloned altlokalt-nextjs"
 
+# compose
 curl -o docker-compose.yml https://raw.githubusercontent.com/valiantlynx/valiantlynx/main/docker-compose.yml
 echo "Downloaded docker-compose.yml"
 
-docker-compose up -d
-echo "Started docker-compose"
+# build and run the prerequisites projects
+docker-compose up -d pocketbase-docker
+echo "Finished pocketbase-docker"
+docker-compose up -d animevariant_com_api
+echo "Finished animevariant_com_api"
+docker-compose up -d pocketbase-upload-maga
+echo "Finished pocketbase-upload-maga"
+
+# build and run the main projects
+docker-compose up -d 
+echo "Finished altlokalt-nextjs"
+sleep 5
 echo "all containers are up and running"
