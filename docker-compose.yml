@@ -43,9 +43,14 @@ services:
   pocketbase-upload-maga:
     build:
       context: ./pocketbase-upload-maga
+    depends_on:
+      - ipfs
     ports:
       - '3800:3000'
     restart: always
+    volumes:
+      - ./pocketbase-upload-maga/api:/app/api
+      - ./pocketbase-upload-maga/js:/app/js
     networks:
       - published
 
@@ -75,6 +80,17 @@ services:
     ports:
       - '3400:3000'
     restart: always
+    volumes:
+      - ./manga-site/app:/app/app
+      - ./manga-site/public:/app/public
+      - ./manga-site/next.config.js:/app/next.config.js
+      - ./manga-site/package.json:/app/package.json
+      - ./manga-site/package-lock.json:/app/package-lock.json
+      - ./manga-site/utils:/app/utils
+      - ./manga-site/types.d.ts:/app/types.d.ts
+      - ./manga-site/tailwind.config.js:/app/tailwind.config.js
+      - ./manga-site/postcss.config.js:/app/postcss.config.js
+      - ./tsconfig.json:/app/tsconfig.json
     networks:
       - published
 
@@ -95,6 +111,18 @@ services:
     restart: always
     networks:
       - published
+
+  ipfs:
+    image: ipfs/kubo
+    ports:
+      - 5001:5001
+      - 8082:8080
+      - 8081:8081
+      - 4001:4001
+      - 4001:4001/udp
+    volumes:
+      - ./pocketbase-upload-maga/storage:/data/ipfs
+    restart: always
 
 networks:
   published:
