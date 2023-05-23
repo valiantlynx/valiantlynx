@@ -25,18 +25,18 @@ curl -o docker-compose.yml https://raw.githubusercontent.com/valiantlynx/valiant
 echo "Downloaded docker-compose.yml"
 
 # build and run the prerequisites projects
-docker-compose up -d pocketbase-docker
+sudo docker-compose up -d pocketbase-docker
 echo "Finished pocketbase-docker"
 sleep 15
-docker-compose up -d animevariant_com_api
+sudo docker-compose up -d animevariant_com_api
 echo "Finished animevariant_com_api"
 sleep 15
-docker-compose up -d pocketbase-upload-maga
+sudo docker-compose up -d pocketbase-upload-maga
 echo "Finished pocketbase-upload-maga"
 sleep 30
 
 # build and run the main projects
-docker-compose up -d 
+sudo docker-compose up -d 
 echo "Finished altlokalt-nextjs"
 sleep 5
 echo "all containers are up and running"
