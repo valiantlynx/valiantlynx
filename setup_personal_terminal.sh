@@ -2,7 +2,8 @@
 sudo apt-get update
 sudo apt-get install tmux 
 sleep 3
-mkdir ~/.config/nvim
+sudo mkdir ~/.config
+sudo mkdir ~/.config/nvim
 sleep 3
 sudo apt-get install curl -y
 sudo curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
