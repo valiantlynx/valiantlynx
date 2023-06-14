@@ -27,7 +27,10 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  
  <a href="https://www.typescriptlang.org/" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="python" width="40" height="40"/> </a> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+ 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/> </a>
  
 # Stats of my Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valiantlynx&layout=compact)
