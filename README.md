@@ -29,8 +29,26 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
  <a href="https://www.typescriptlang.org/" width="40" height="40"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  
-  <a href="https://www.w3.org/html/" target="_blank"> 
+ <a href="https://www.w3.org/html/" target="_blank"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
+ 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/> </a>
+ 
+ <a href="https://www.w3.org/html/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+ 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+ 
+   <a href="https://www.w3.org/html/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ 
+ <a href="https://www.w3.org/html/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40"/> </a>
+ 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="rust" width="c plus plus" height="40"/> </a>
  
 # Stats of my Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valiantlynx&layout=compact)
