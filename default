@@ -1,0 +1,410 @@
+
+server {
+	listen 80 default_server;
+	listen [::]:80 default_server;
+
+	# SSL configuration
+	# include snippets/snakeoil.conf;
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+
+	server_name _;
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		try_files $uri $uri/ =404;
+	}
+}
+
+server {
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name api.animevariant.org; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:3800;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+    listen [::]:443 ssl ipv6only=on; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/api.animevariant.org/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/api.animevariant.org/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = api.animevariant.org) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name api.animevariant.org;
+    return 404; # managed by Certbot
+
+
+}
+server {
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name api.animevariant.com; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:3200;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+    listen [::]:443 ssl; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/api.animevariant.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/api.animevariant.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = api.animevariant.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name api.animevariant.com;
+    return 404; # managed by Certbot
+
+
+}
+server {
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name analytics.valiantlynx.com; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:8990;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+    listen [::]:443 ssl; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/analytics.valiantlynx.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/analytics.valiantlynx.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = analytics.valiantlynx.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name analytics.valiantlynx.com;
+    return 404; # managed by Certbot
+
+
+}
+server {
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name projects.valiantlynx.com; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:3500;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+    listen [::]:443 ssl; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/projects.valiantlynx.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/projects.valiantlynx.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = projects.valiantlynx.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name projects.valiantlynx.com;
+    return 404; # managed by Certbot
+
+
+}
+server {
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name blog.valiantlynx.com; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:3600;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+    listen [::]:443 ssl; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/blog.valiantlynx.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/blog.valiantlynx.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = blog.valiantlynx.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name blog.valiantlynx.com;
+    return 404; # managed by Certbot
+
+
+}
+server {
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name chat.valiantlynx.com; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:8765;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+    listen [::]:443 ssl; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/chat.valiantlynx.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/chat.valiantlynx.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = chat.valiantlynx.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name chat.valiantlynx.com;
+    return 404; # managed by Certbot
+
+
+}
+server {
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name sw.valiantlynx.com; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:3900;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+    listen [::]:443 ssl; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/sw.valiantlynx.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/sw.valiantlynx.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = sw.valiantlynx.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name sw.valiantlynx.com;
+    return 404; # managed by Certbot
+
+
+}
+server {
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name valiantlynx.com; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:3300;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+
+    listen [::]:443 ssl; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/valiantlynx.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/valiantlynx.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = valiantlynx.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name valiantlynx.com;
+    return 404; # managed by Certbot
+
+
+}
+server {
+
+
+	root /var/www/html;
+
+	# Add index.php to the list if you are using PHP
+	index index.html index.htm index.nginx-debian.html;
+    server_name altlokalt.com; # managed by Certbot
+
+
+	location / {
+		# First attempt to serve request as file, then
+		# as directory, then fall back to displaying a 404.
+		proxy_pass http://localhost:3700;
+        proxy_set_header Host $host;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection upgrade;
+        proxy_set_header Accept-Encoding gzip;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+	}
+
+    listen [::]:443 ssl; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/altlokalt.com/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/altlokalt.com/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+}
+server {
+    if ($host = altlokalt.com) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+	listen 80 ;
+	listen [::]:80 ;
+    server_name altlokalt.com;
+    return 404; # managed by Certbot
+
+
+}
