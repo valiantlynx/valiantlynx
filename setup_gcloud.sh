@@ -10,3 +10,9 @@ tar -xf google-cloud-cli-437.0.0-linux-x86_64.tar.gz
 exec -l $SHELL
 
 ./google-cloud-sdk/bin/gcloud init
+
+gcloud auth login
+
+gcloud components install gke-gcloud-auth-plugin
+
+gke-gcloud-auth-plugin --version
