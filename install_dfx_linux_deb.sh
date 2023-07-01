@@ -11,3 +11,4 @@ echo "${PATH//:/$'\n'}"
 # Check that dfx has been successfully installed with the following command:
 dfx --version
 dfx upgrade
+dfx identity set-wallet v24aq-iaaaa-aaaak-acjrq-cai --network ic
