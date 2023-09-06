@@ -1,5 +1,17 @@
 #!/bin/bash
 sudo apt-get update
+git clone https://github.com/valiantlynx/mybash.git
+cd mybash
+sudo bash setup.sh
+curl -L -o Meslo.zip https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Meslo.zip
+mkdir ~/.local/share/fonts
+cp Meslo.zip ~/.local/share/fonts/
+cd ~/.local/share/fonts/
+unzip Meslo.zip
+rm Meslo.zip
+cd ~
+rm Meslo.zip
+
 sudo apt-get install tmux 
 sleep 3
 sudo mkdir ~/.config
