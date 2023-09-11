@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 # valiantlynx
 # 👋HI I AM valiantlynx 👋
 I am Developer, - 👀 I’m interested in general development. Be it product, system, game or web
-- 🌱 I’m currently learning AI engineering
+- 🌱 I’m currently studying AI engineering - masters
 - 💞️ I’m open to collaborate on any interesting development work
 - 📫 How to reach me valiantlynxz@gmail.com
 # Heres my stats - <br >
