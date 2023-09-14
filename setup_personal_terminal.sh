@@ -7,6 +7,7 @@ curl -L -o Meslo.zip https://github.com/ryanoasis/nerd-fonts/releases/download/v
 mkdir ~/.local/share/fonts
 cp Meslo.zip ~/.local/share/fonts/
 cd ~/.local/share/fonts/
+sudo apt-get install unzip -y
 unzip Meslo.zip
 rm Meslo.zip
 cd ~
