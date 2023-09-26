@@ -54,4 +54,4 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valiantlynx&layout=compact)
 
 # My Streaks and contributions
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valiantlynx&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=valiantlynxz)](https://git.io/streak-stats)
