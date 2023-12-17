@@ -50,7 +50,9 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
  
   <a href="https://www.w3.org/html/" target="_blank"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="rust" width="c plus plus" height="40"/> </a>
- 
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
+
 # Stats of my Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valiantlynx&layout=compact)
 
