@@ -140,11 +140,17 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <a href="https://github.com/valiantlynx/svelte-leaflet" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-leaflet" width="49%" alt="leaflet for svelte"/>
   </a>
-  <a href="https://github.com/valiantlynx/sorsu" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
+  <a href="https://github.com/valiantlynx/svelte-blog" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-blog" width="49%" alt="the valiantlynx blog"/>
   </a>
-  <a href="https://github.com/valiantlynx/library-management-system-next-react" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
+  <a href="https://github.com/valiantlynx/htmx-chat" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=htmx-chat" width="49%" alt="the simplest fully working chat"/>
+  </a>
+   <a href="https://github.com/valiantlynx/adb_fiken" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=adb_fiken" width="49%" alt="accounting software for norwegian companies"/>
+  </a>
+  <a href="https://github.com/valiantlynx/svelte-rich-text" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-rich-text" width="49%" alt="rich text editor usable in any project"/>
   </a>
 </div>
 
