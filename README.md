@@ -140,9 +140,6 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <a href="https://github.com/valiantlynx/svelte-leaflet" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-leaflet" width="49%" alt="leaflet for svelte"/>
   </a>
-  <a href="https://github.com/valiantlynx/svelte-blog" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-blog" width="49%" alt="the valiantlynx blog"/>
-  </a>
   <a href="https://github.com/valiantlynx/htmx-chat" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=htmx-chat" width="49%" alt="the simplest fully working chat"/>
   </a>
