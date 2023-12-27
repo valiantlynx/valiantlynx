@@ -86,11 +86,11 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,nextjs,redux,java,cpp,py,swift,arduino,firebase,mongodb,mysql,sqlite,postman,netlify,vercel,figma,materialui" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,svelte,rust,cpp,c,bash,aws,blender,bootstrap,cloudflare,express,fastapi,kubernetes,githubactions,nodejs,matlab,linux,webpack,vite,html,css,tailwind,js,ts,react,nextjs,redux,java,py,mongodb,mysql,neovim,nginx,sqlite,postman,netlify,vercel,figma,unity,unreal,visualstudio" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker,django,prisma,tensorflow" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=tensorflow,threejs" alt="skills actively learning logos">
   <br>
   <!-- <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
@@ -137,44 +137,14 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/valiantlynx/selenium-twitter-scraper" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
+  <a href="https://github.com/valiantlynx/svelte-leaflet" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-leaflet" width="49%" alt="leaflet for svelte"/>
   </a>
   <a href="https://github.com/valiantlynx/sorsu" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
   </a>
   <a href="https://github.com/valiantlynx/library-management-system-next-react" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
-  </a>
-  <a href="https://github.com/valiantlynx/Reddit-Clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
-  </a>
-  <a href="https://github.com/valiantlynx/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
-  </a>
-  <a href="https://github.com/valiantlynx/TypeScript-and-React_Quiz-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
-  </a>
-  <a href="https://github.com/valiantlynx/ionic-react-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=ionic-react-shadcn-starter" width="49%" alt="Ionic React Shadcn UI Starter"/>
-  </a>
-  <a href="https://github.com/valiantlynx/turborepo-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
-  </a>
-  <a href="https://github.com/valiantlynx/turbo-nextui-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
-  </a>
-  <a href="https://github.com/valiantlynx/turborepo-next-django-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
-  </a>
-  <a href="https://github.com/valiantlynx/django-jwt-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
-  </a>
-  <a href="https://github.com/valiantlynx/springer-nature-latex-template" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
-  </a>
-  <a href="https://github.com/valiantlynx/BSCS-GVC-01-Infographics" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
   </a>
 </div>
 
