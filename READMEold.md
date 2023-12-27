@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Jarrian+and+Welcome+to+my+Profile!" alt="Hey, I'm Jarrian and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Valiantlynx+and+Welcome+to+my+Profile!" alt="Hey, I'm Valiantlynx and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
   <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
+  <img src="https://profile-counter.glitch.me/valiantlynx/count.svg" />
 </div>
 
 <h2></h2>
@@ -37,7 +37,7 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
   <br>
 
-  <a href="https://www.codewars.com/users/godkingjay" target="_blank">
+  <a href="https://www.codewars.com/users/valiantlynx" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
 
@@ -49,7 +49,7 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/godkingjay/" target="_blank">
+  <a href="https://leetcode.com/valiantlynx/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
 
@@ -76,11 +76,11 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valiantlynx&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
   <br>
 
-  <a href="https://wakatime.com/@godkingjay" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  <a href="https://wakatime.com/@valiantlynx" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=valiantlynx&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
   
@@ -119,13 +119,13 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=valiantlynx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=valiantlynx&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valiantlynx&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godkingjay&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valiantlynx&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
 </div>
 
 </br>
@@ -137,44 +137,44 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
+  <a href="https://github.com/valiantlynx/selenium-twitter-scraper" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
   </a>
-  <a href="https://github.com/godkingjay/sorsu" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
+  <a href="https://github.com/valiantlynx/sorsu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=sorsu" width="49%" alt="SorSUcial"/>
   </a>
-  <a href="https://github.com/godkingjay/library-management-system-next-react" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
+  <a href="https://github.com/valiantlynx/library-management-system-next-react" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=library-management-system-next-react" width="49%" alt="LibMS"/>
   </a>
-  <a href="https://github.com/godkingjay/Reddit-Clone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
+  <a href="https://github.com/valiantlynx/Reddit-Clone" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=reddit-clone" width="49%" alt="Reddit Clone"/>
   </a>
-  <a href="https://github.com/godkingjay/Authentic-Pinoy-Recipes-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
+  <a href="https://github.com/valiantlynx/Authentic-Pinoy-Recipes-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=authentic-pinoy-recipes-app" width="49%" alt="Authentic Pinoy Recipes"/>
   </a>
-  <a href="https://github.com/godkingjay/TypeScript-and-React_Quiz-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
+  <a href="https://github.com/valiantlynx/TypeScript-and-React_Quiz-App" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=TypeScript-and-React_Quiz-App" width="49%" alt="Quizard"/>
   </a>
-  <a href="https://github.com/godkingjay/ionic-react-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=ionic-react-shadcn-starter" width="49%" alt="Ionic React Shadcn UI Starter"/>
+  <a href="https://github.com/valiantlynx/ionic-react-shadcn-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=ionic-react-shadcn-starter" width="49%" alt="Ionic React Shadcn UI Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/turborepo-shadcn-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
+  <a href="https://github.com/valiantlynx/turborepo-shadcn-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=turborepo-shadcn-starter" width="49%" alt="Turborepo Shadcn UI Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/turbo-nextui-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
+  <a href="https://github.com/valiantlynx/turbo-nextui-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=turbo-nextui-starter" width="49%" alt="Turborepo NextUI Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/turborepo-next-django-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
+  <a href="https://github.com/valiantlynx/turborepo-next-django-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=turborepo-next-django-starter" width="49%" alt="Turborepo Next Django Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/django-jwt-starter" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
+  <a href="https://github.com/valiantlynx/django-jwt-starter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=django-jwt-starter" width="49%" alt="Django JWT Starter"/>
   </a>
-  <a href="https://github.com/godkingjay/springer-nature-latex-template" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
+  <a href="https://github.com/valiantlynx/springer-nature-latex-template" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=springer-nature-latex-template" width="49%" alt="Springer Nature Latex Template"/>
   </a>
-  <a href="https://github.com/godkingjay/BSCS-GVC-01-Infographics" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
+  <a href="https://github.com/valiantlynx/BSCS-GVC-01-Infographics" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=BSCS-GVC-01-Infographics" width="49%" alt="Infographic Website: Artificial Intelligence - Behind Industries and Sectors"/>
   </a>
 </div>
 
@@ -208,5 +208,5 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   </a>
 </div>
 
-<!-- <img src="https://github.com/godkingjay/godkingjay/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
+<!-- <img src="https://github.com/valiantlynx/valiantlynx/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
 <img src="./assets/animated-wave.svg" />
