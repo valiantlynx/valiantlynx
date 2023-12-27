@@ -21,17 +21,12 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
 
--   👨‍💻 I'm Jarrian(godkingjay)👋, a college student, I'm currently pursuing a Computer Science Degree in the Philippines. <br><br><br>
+I am Developer, - 👀 I’m interested in general development. Be it product, system, game or web
+- 🌱 I’m currently studying AI engineering - masters <br><br><br>
+- 💞️ I’m open to collaborate on any interesting development work <br><br><br>
+- 📫 How to reach me valiantlynxz@gmail.com <br><br><br>
 
--   🌳 I’m currently learning AI and ML using Python! <br><br><br>
-
--   🐾 I’m looking to network and make friends here! <br><br><br>
-
--   🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
-
--   ☕ Interest: Science, Math, Coffee, and Coding. <br><br><br>
-
--   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novel, and Facebook. <br><br>
+-   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: programing, Reading, movies, learning tech, creating stuff(physical, virtual, theoretical, etc. all of it). <br><br>
 
 <h2></h2>
 
