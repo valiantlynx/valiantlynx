@@ -37,29 +37,10 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
   <br>
 
-  <a href="https://www.codewars.com/users/valiantlynx" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
-  </a>
 
-  <a href="https://www.coursera.org/user/35d06074c7104e91a2ec94c25ea37db4" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/godking_jay" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/valiantlynx/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-  </a>
-
-  <a href="https://www.sololearn.com/profile/9696303/" target="_blank">
-    <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
-  </a>
-
-  <a href="https://www.udemy.com/user/jarrian-vince-gloriana-gojar/" target="_blank">
+  <!--a href="https://www.udemy.com/user/valiantlynx/" target="_blank">
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-  </a>
+  </a-->
   
 </div></br>
 
@@ -125,7 +106,7 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valiantlynx&custom_title=GodkingJay's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="GodkingJay's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valiantlynx&custom_title=Valiantlynx's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Valiantlynx's Github Activity Graph" width="100%">
 </div>
 
 </br>
@@ -160,23 +141,23 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  <a href="https://www.facebook.com/jarrian.gojar" target="_blank">
+  <a href="https://www.facebook.com/valiantlynx" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>
   &nbsp
-  <a href="https://twitter.com/godking_jay" target="_blank">
+  <a href="https://twitter.com/valiantlynxz" target="_blank">
     <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
   </a>
   &nbsp
-  <a href="https://www.instagram.com/jarrian.v.gg/" target="_blank">
+  <a href="https://www.instagram.com/valiantlynx/" target="_blank">
     <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
   </a>
   &nbsp
-  <a href="https://www.linkedin.com/in/jarriangojar/" target="_blank">
+  <a href="https://www.linkedin.com/in/valiantlynx/" target="_blank">
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
-  <a href="https://discord.com/users/385102038087892992" target="_blank">
+  <a href="https://discord.gg/Ct5c9smMkW" target="_blank">
     <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
   </a>
 </div>
