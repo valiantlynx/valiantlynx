@@ -67,11 +67,11 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,svelte,rust,cpp,c,bash,aws,blender,bootstrap,cloudflare,express,fastapi,kubernetes,githubactions,nodejs,matlab,linux,webpack,vite,html,css,tailwind,js,ts,react,nextjs,redux,py,mongodb,mysql,neovim,nginx,sqlite,postman,netlify,vercel,figma,unity,unreal,visualstudio" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,svelte,rust,bash,aws,blender,bootstrap,cloudflare,express,fastapi,kubernetes,githubactions,nodejs,matlab,linux,webpack,vite,html,css,tailwind,js,ts,react,nextjs,redux,py,mongodb,nginx,postman,netlify,vercel,figma,unity,unreal,visualstudio" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,threejs,r,cpp" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=tensorflow,threejs,r,cpp,c,mysql,neovim,sqlite" alt="skills actively learning logos">
   <br>
   <!-- <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
