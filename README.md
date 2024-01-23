@@ -71,7 +71,7 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,threejs,r,cpp,c,mysql,neovim,sqlite" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=tensorflow,threejs,r,cpp,c,latex,mysql,neovim,sqlite" alt="skills actively learning logos">
   <br>
   <!-- <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
