@@ -130,8 +130,8 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <a href="https://github.com/valiantlynx/svelte-rich-text" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-rich-text" width="49%" alt="rich text editor usable in any project"/>
   </a>
-  <a href="https://github.com/valiantlynx/svelte-rich-text" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-rich-text" width="49%" alt="easiest deployment of local ai"/>
+  <a href="https://github.com/valiantlynx/ollama-docker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=ollama-docker" width="49%" alt="easiest deployment of local ai"/>
   </a>
 </div>
 
