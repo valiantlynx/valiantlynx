@@ -133,6 +133,12 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <a href="https://github.com/valiantlynx/ollama-docker" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=ollama-docker" width="49%" alt="easiest deployment of local ai"/>
   </a>
+   <a href="https://github.com/valiantlynx/svelte-altlokalt" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=svelte-altlokalt" width="49%" alt="norwegian companies informasjon website"/>
+  </a>
+   <a href="https://github.com/valiantlynx/devops" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=devops" width="49%" alt="Create and manage infrastructure using Terraform, automate the deployment process with GitHub Actions and monitor and alert with prometheus and grafana"/>
+  </a>
 </div>
 
 </br>
