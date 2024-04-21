@@ -67,15 +67,15 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,svelte,rust,bash,aws,blender,bootstrap,cloudflare,express,fastapi,kubernetes,githubactions,nodejs,matlab,linux,webpack,vite,html,css,tailwind,js,ts,react,nextjs,redux,py,mongodb,nginx,postman,netlify,vercel,figma,unity,unreal,visualstudio,terraform,latex,ansible,grafana,prometheus" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,svelte,rust,bash,aws,blender,bootstrap,cloudflare,codepen,discord,docker,express,fastapi,kubernetes,githubactions,nodejs,matlab,linux,linkedin,webpack,stackoverflow,styledcomponents,vite,html,css,tailwind,js,ts,react,nextjs,twitter,ubuntu,redux,py,mongodb,nginx,postman,windows,wordpress,netlify,vercel,figma,unity,unreal,visualstudio,terraform,latex,ansible,grafana,prometheus,autocad,azure,bitbucket,clion,gcp,gmail,htmx,ipfs,jquery,kali,md,materialui,npm,pnpm,yarn,pycharm,redis,supabase,selenium" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,threejs,r,cpp,c,mysql,neovim,sqlite" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=tensorflow,threejs,r,cpp,c,mysql,neovim,sqlite,androidstudio,anaconda,arduino,cmake,dart,go,pytorch,sklearn" alt="skills actively learning logos">
   <br>
-  <!-- <h2></h2>
+ <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,docker,dotnet,electron,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,vue" alt="skills planning to learn logos"> -->
+  <img src="https://skillicons.dev/icons?i=firebase,flutter,gitlab,godot,angular,bots,graphql,kotlin,lua,instagram,jenkins,kafka,p5js,postgres,rabbitmq,raspberrypi,sentry,sketchup,solidity,svg,wasm" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
