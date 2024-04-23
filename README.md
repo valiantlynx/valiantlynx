@@ -64,7 +64,13 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=valiantlynx&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
   <br>
-  
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valiantlynx/valiantlynx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valiantlynx/valiantlynx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valiantlynx/valiantlynx/output/github-contribution-grid-snake.svg">
+</picture>
+  <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,svelte,rust,bash,aws,blender,bootstrap,cloudflare,codepen,discord,docker,express,fastapi,kubernetes,githubactions,nodejs,matlab,linux,linkedin,webpack,stackoverflow,styledcomponents,vite,html,css,tailwind,js,ts,react,nextjs,twitter,ubuntu,redux,py,mongodb,nginx,postman,windows,wordpress,netlify,vercel,figma,unity,unreal,visualstudio,terraform,latex,ansible,grafana,prometheus,autocad,azure,bitbucket,clion,gcp,gmail,htmx,ipfs,jquery,kali,md,materialui,npm,pnpm,yarn,pycharm,redis,supabase,selenium,bots" alt="skills logos" />
