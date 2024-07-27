@@ -19,7 +19,7 @@
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and studying AI engineering <img src="./assets/animated-flame-01.gif" width="14px"/> at Uni! </h2><br>
 
 I am Developer, - 👀 I’m interested in general development. Be it product, system, game or web
 - 🌱 I’m currently studying AI engineering - masters <br><br><br>
