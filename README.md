@@ -145,6 +145,9 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
    <a href="https://github.com/valiantlynx/devops" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=devops" width="49%" alt="Create and manage infrastructure using Terraform, automate the deployment process with GitHub Actions and monitor and alert with prometheus and grafana"/>
   </a>
+    <a href="https://github.com/valiantlynx/marshmallow-ghost-stack" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valiantlynx&theme=radical&repo=marshmallow-ghost-stack" width="49%" alt="For BETAUIA GameJam. --Theme: how to roast a marshmallow"/>
+  </a>
 </div>
 
 </br>
