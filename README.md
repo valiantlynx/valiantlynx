@@ -1,58 +1,30 @@
-<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<div align="center">
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Valiantlynx+and+Welcome+to+my+Profile!" alt="Hey, I'm Valiantlynx and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
-</div>
-
-<img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center">
   <p><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/valiantlynx/count.svg" />
 </div>
+<img src="./assets/borderseparator.gif" width="100%"/>
 
 <h2></h2>
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and studying AI engineering <img src="./assets/animated-flame-01.gif" width="14px"/> at Uni! </h2><br>
+<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and studying AI <img src="./assets/animated-flame-01.gif" width="14px"/> at Uni! </h2><br>
 
 I am Developer, - 👀 I’m interested in general development. Be it product, system, game or web
-- 🌱 I’m currently studying AI engineering - masters <br><br><br>
+- 🌱 I’m currently studying AI - masters <br><br><br>
 - 💞️ I’m open to collaborate on any interesting development work <br><br><br>
 - 📫 How to reach me valiantlynxz@gmail.com <br><br><br>
 
--   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: programing, Reading, movies, learning tech, creating stuff(physical, virtual, theoretical, etc. all of it). <br><br>
+-   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: programing, Reading, movies, learning tech, creating stuff(physical, virtual, theoretical). <br><br>
 
 <h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-<!--div align="center">
-  <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
-  <br>
-
-
-  <a href="https://www.udemy.com/user/valiantlynx/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-  </a>
-  
-</div></br>
-
-<h2></h2>
-
-<div align="center">
-  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
-</div>
-
-<div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/-->
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
@@ -66,11 +38,6 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <br>
 
   <br>
-  <!--h2></h2>
-  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=git,github,svelte,rust,bash,aws,blender,bootstrap,cloudflare,codepen,discord,docker,express,fastapi,kubernetes,githubactions,nodejs,matlab,linux,webpack,stackoverflow,styledcomponents,vite,html,css,tailwind,js,ts,react,nextjs,ubuntu,redux,py,mongodb,nginx,postman,wordpress,netlify,vercel,figma,unity,unreal,visualstudio,terraform,latex,ansible,grafana,prometheus,autocad,azure,bitbucket,clion,gcp,htmx,ipfs,jquery,kali,md,materialui,npm,pnpm,yarn,pycharm,redis,supabase,selenium,bots,rabbitmq,anaconda,sqlite" alt="skills logos" />
-  <br> 
-  <h2></h2-->
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=tensorflow,threejs,r,cpp,c,neovim,androidstudio,arduino,cmake,dart,go,pytorch,sklearn,wasm,graphql,lua,flutter" alt="skills actively learning logos">
   <br>
@@ -80,21 +47,6 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 </div>
 
 <h2></h2>
-
-<!-- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
-<h2 align="center">💻 Workspace<img src="./assets/borderseparator.gif"/></h2>
-
-|                                                               👩‍💻 Device                                                               |                                                                                                                                                                                                                                                                                                                ⚙️ Specification                                                                                                                                                                                                                                                                                                                |                                                                                                                                         📃 Purpose                                                                                                                                         |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://img.shields.io/badge/acer%20Aspire%207-83B81A?style=for-the-badge&logo=acer&logo=white" alt="Acer Aspire 7"/> | <img src="https://img.shields.io/badge/Windows%2011%20Home-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/AMD%20Ryzen%205%205500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Windows 11 Home"/> <img src="https://img.shields.io/badge/512GB%20SSD-0078D6?style=for-the-badge" alt="512GB SSD"/> <img src="https://img.shields.io/badge/16GB%20DDR4-0078D6?style=for-the-badge&logoColor=white" alt="16GB RAM"> | <img src="https://img.shields.io/badge/🧑‍💻%20Work-007DB8?style=for-the-badge" alt="Work"> <img src="https://img.shields.io/badge/🧑‍💻%20Programming-202020?style=for-the-badge" alt="Programming"> <img src="https://img.shields.io/badge/🧑‍🎓%20School-00897B?style=for-the-badge" alt="School"> |
-
-<h2></h2>
-
-<div align="center">
-  <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
-</div> -->
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
@@ -175,5 +127,4 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   </a>
 </div>
 
-<!-- <img src="https://github.com/valiantlynx/valiantlynx/blob/output/github-snake-dark-neon-2.svg" width="100%" align="middle"/> -->
 <img src="./assets/animated-wave.svg" />
