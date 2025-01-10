@@ -110,7 +110,7 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>
   &nbsp
-  <a href="https://twitter.com/valiantlynxz" target="_blank">
+  <a href="https://twitter.com/valiantlynx42" target="_blank">
     <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
   </a>
   &nbsp
@@ -118,7 +118,7 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
     <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
   </a>
   &nbsp
-  <a href="https://www.linkedin.com/in/valiantlynx/" target="_blank">
+  <a href="https://www.linkedin.com/in/gormery-wanjiru-02b737314/" target="_blank">
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
