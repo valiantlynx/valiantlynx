@@ -47,8 +47,6 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
   <img src="https://github-readme-stats.vercel.app/api?username=valiantlynx&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
-
-
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
