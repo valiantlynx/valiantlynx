@@ -1,12 +1,5 @@
 
-<img src="./assets/borderseparator.gif" width="100%"/>
 
-
-<div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/valiantlynx/count.svg" />
-</div>
-<img src="./assets/borderseparator.gif" width="100%"/>
 
 <h2></h2>
 
@@ -21,34 +14,14 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 
  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: programing, Reading, movies, learning tech, creating stuff(physical, virtual, theoretical). <br><br>
 
-<h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-  
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
-  <br>
-  <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,threejs,r,cpp,c,neovim,androidstudio,arduino,cmake,dart,go,pytorch,sklearn,wasm,lua,flutter" alt="skills actively learning logos">
-  <br>
- <h2></h2>
-  <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=firebase,godot,angular,kotlin,jenkins,kafka,p5js,postgres,raspberrypi,sentry,sketchup,solidity,svg" alt="skills planning to learn logos">
-</div>
-
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=valiantlynx&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=valiantlynx&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=valiantlynx&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
@@ -72,5 +45,3 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
     <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
   </a>
 </div>
-
-<img src="./assets/animated-wave.svg" />
