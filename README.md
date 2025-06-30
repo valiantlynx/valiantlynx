@@ -24,7 +24,7 @@ I am Developer, - 👀 I’m interested in general development. Be it product, s
 
 
 <div align="center">
-  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
+  <h2 align="center">✉️ Contact </h2>
   <a href="https://www.facebook.com/valiantlynx" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>
