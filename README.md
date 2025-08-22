@@ -8,7 +8,6 @@
 <h2 align="center"> Building the future <img src="./assets/animated-flame-01.gif" width="14px"/> one algorithm at a time  <img src="./assets/animated-flame-01.gif" width="14px"/>! </h2><br>
 
 I am Developer, - 👀 I’m interested in general development. Be it product, system, game or web
-- 🌱 I’m currently studying AI/ML engineering - masters <br><br><br>
 - 💞️ I’m open to collaborate on any interesting development work <br><br><br>
 - 📫 How to reach me valiantlynxz@gmail.com <br><br><br>
 
